@@ -1,0 +1,2 @@
+# CORS-CASE-1
+Exploit CORS
