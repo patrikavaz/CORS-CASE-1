@@ -1,2 +1,3 @@
 # CORS-CASE-1
-Exploit CORS
+Exploit CORS 1 
+All Origin
